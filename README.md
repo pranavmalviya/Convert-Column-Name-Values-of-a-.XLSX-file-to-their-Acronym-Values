@@ -1,0 +1,2 @@
+# Convert-Column-Name-Values-of-a-.XLSX-file-to-their-Acronym-Values
+This Project contains the code as well as sample file which can change the Column Values to their Acronyms.  Along with this it can will write single word column names as it is and will present all the subsection (represented by enclosing them in bracket in original file) with columnname_subsection format. Read the Read.me file to understand the working of whole code.
