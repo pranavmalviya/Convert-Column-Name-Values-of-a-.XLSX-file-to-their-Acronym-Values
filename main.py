@@ -1,6 +1,6 @@
 from openpyxl import load_workbook
 import pandas as pd
-import re
+import randi
 #this code is written by Khushvardhan and Jayvardhan Bhardwaj
 pd_xl_file = pd.ExcelFile("Sample.xlsx")
 df = pd_xl_file.parse("Sheet1")
